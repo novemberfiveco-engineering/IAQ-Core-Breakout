@@ -12,7 +12,7 @@
 - Supply Voltage 3.3V
 - Board provides a place for connecting rows of 3 pin headers
 - Breadboard friendly
-- 35,2 x 25,4 mm
+- 35.2 x 25.4 mm
 
 For more information about the IAQ-Core please click [here](http://ams.com/eng/Products/Environmental-Sensors/Air-Quality-Sensors)
 
